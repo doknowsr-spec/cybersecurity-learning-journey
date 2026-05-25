@@ -35,3 +35,9 @@ tracert google.com
 nslookup google.com
 ping 127.0.0.1
 ```
+
+**Practical Observations**
+Observed real packet communication using ping
+Identified IPv4 and IPv6 addresses
+Learned how DNS converts domain names into IP addresses
+Observed packet travel routes using tracert
