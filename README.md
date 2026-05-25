@@ -1,5 +1,5 @@
 # cybersecurity-learning-journey
-learning anything about cyber.
+
 This repository documents  my beginner-to-advanced cybersecurity learning journey.
 
 ## Topics Learned So Far
