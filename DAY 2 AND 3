@@ -1,1 +1,82 @@
+# TCP vs UDP
+
+## TCP
+Transmission Control Protocol
+
+Features:
+- Reliable
+- Ordered delivery
+- Retransmits lost packets
+
+Examples:
+- Banking
+- Email
+- File Downloads
+
+## UDP
+User Datagram Protocol
+
+Features:
+- Fast
+- Low delay
+- No delivery guarantee
+
+Examples:
+- Gaming
+- Video Calls
+- Live Streaming
+
+## Key Difference
+
+TCP = Reliability
+
+UDP = Speed / Low Delay
+
+
+
+
+
+
+
+# Ports, HTTP and HTTPS
+
+## Port
+
+A port is a logical communication endpoint.
+
+Example:
+
+IP Address = Building Address
+Port = Room Number
+
+## HTTP
+
+Full Form:
+HyperText Transfer Protocol
+
+Port:
+80
+
+## HTTPS
+
+Full Form:
+HyperText Transfer Protocol Secure
+
+Port:
+443
+
+## Why HTTPS?
+
+HTTPS encrypts communication between browser and website.
+
+## Important
+
+DNS finds the device.
+
+IP identifies the device.
+
+Port identifies the application.
+
+
+
 
